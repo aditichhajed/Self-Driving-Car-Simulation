@@ -5,6 +5,6 @@ Enhanced model accuracy and efficiency using gradient descent and fine-tuning me
 
 ## Overview
 
-The goal of this project is to train a neural network to drive a car in a simulator using the NVIDIA model architecture. The model learns from a dataset of images captured from a car's cameras and corresponding steering angles.
+The goal of this project is to train a neural network to drive a car in a simulator. The model learns from a dataset of images captured from a car's cameras and corresponding steering angles.
 
 
